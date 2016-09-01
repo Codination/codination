@@ -10,5 +10,5 @@ window용 기획은 [for_win](https://github.com/jaminn/codination/tree/master/f
   
   
 ##공문
-![dicon](https://github.com/Codination/codination/blob/master/%EA%B7%B8%EC%99%B8/dicon.jpg =300x)  
+![dicon](https://github.com/Codination/codination/blob/master/%EA%B7%B8%EC%99%B8/dicon.jpg)  
 
