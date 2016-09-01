@@ -3,7 +3,7 @@
 남은 시간은:[여기서](http://jsdn.space/dicon.html "웹사이트")  
 2016년 11월 04일이 마감일 입니다.  
   
-![dicon](https://github.com/Codination/codination/blob/master/%EA%B7%B8%EC%99%B8/dicon.jpg =300x)  
+![dicon](https://github.com/Codination/codination/blob/master/%EA%B7%B8%EC%99%B8/dicon.jpg)  
 
   
 ##기획 정보
